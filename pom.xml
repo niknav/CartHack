@@ -22,6 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+  <sonar.projectKey>niknav_CartHack</sonar.projectKey>
+  <sonar.organization>nik</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>c33a2a1b320b76562312f317a6aeffba4e1700f5</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
